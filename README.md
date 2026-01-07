@@ -1,10 +1,10 @@
-# DIY Kiosk - Downloads
+# DIY Kiosk - Releases
 
 **DIY Kiosk** is a POS/Kiosk system for F&B businesses in Vietnam.
 
 ## Download
 
-🚧 **Coming soon!** - APK release will be available here.
+Download the latest APK from the [Releases](../../releases) page.
 
 ## Features
 
@@ -12,6 +12,6 @@
 - QR payment via payOS (VietQR)
 - Easy menu management
 
----
+## Issues & Feedback
 
-*Check back soon for the first release!*
+Found a bug or have a feature request? Please open an issue on the [Issues](../../issues) page.
